@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Amit;Full+Stack+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   <br>
    <a  href="https://amitnayak.xyz"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
-</p>
-<div align="left" style="display: inline-block;">
+<div style="display: inline-block;">
   <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" />
 </div>
-
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitNayak514" alt="AmitNayak514" /></a> </p>
 <p align="center">
     <a href="">
         <img alt="Amit | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
