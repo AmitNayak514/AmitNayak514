@@ -3,9 +3,7 @@
 </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" /> 
-  <a href="https://amitnayak.xyz">
-    <img height="30" src="https://png.pngtree.com/png-vector/20221119/ourmid/pngtree-aa-letter-logos-png-image_6471608.png">
-  </a>
+  <a  href="https://amitnayak.xyz"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
 </div>
 <p align="center">
     <a href="">
