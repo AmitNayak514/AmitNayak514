@@ -78,3 +78,8 @@
   </div>
   <br>
 </p>
+
+<br>
+<div align="center" style="display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" />
+</div>
