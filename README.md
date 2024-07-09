@@ -53,7 +53,9 @@
      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
       </div>
 </div>
-
+<br>
+<br>
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
