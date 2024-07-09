@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Amit;Full+Stack+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" /> </p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" /> 
+  <a href="https://amitnayak.xyz">
+    <img height="30" src="https://png.pngtree.com/png-vector/20221119/ourmid/pngtree-aa-letter-logos-png-image_6471608.png">
+  </a>
+</div>
 <p align="center">
     <a href="">
         <img alt="Amit | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
@@ -56,7 +61,6 @@
 <br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/AmitNayak514" >  
