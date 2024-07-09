@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <span style="display: inline-block; border-right: 0.1em solid; padding: 0 0.1em; white-space: nowrap; overflow: hidden;">
+      Hello, I'm Amit Nayak
+    </span>
+  </a>
+</h1>
 
-<!--
-**AmitNayak514/AmitNayak514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+  h1 a span {
+    animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
+  }
 
-Here are some ideas to get you started:
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black; }
+  }
+</style>
