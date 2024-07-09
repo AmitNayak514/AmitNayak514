@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Amit;Full+Stack+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   <br>
    <a href="https://namanbarkiya.xyz">
-    <img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black">
+    <img height="30" src="https://image.similarpng.com/very-thumbnail/2021/09/Letter-A-logo-design-in-flat-design-on-transparent-background-PNG.png">
   </a>
 </p>
 <div align="left" style="display: inline-block;">
