@@ -66,7 +66,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/AmitNayak514" >  
-    <img align="left" width=400 src="https://streak-stats.demolab.com/?user=AmitNayak514&theme=react&border=61dafb&hide_border=true"/>
+    <img align="left" width=360 src="https://streak-stats.demolab.com/?user=AmitNayak514&theme=react&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/AmitNayak514">
       <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=AmitNayak514&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
