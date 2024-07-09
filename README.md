@@ -20,7 +20,7 @@
     </a>&nbsp;&nbsp; 
     <a href="mailto: amitbabaninayak@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
         <img alt="Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" width="40" height="40"/>
-    </a>
+    </a>&nbsp;&nbsp; 
 <a href="https://www.instagram.com/amit.dead/" target="_blank">
   <span> </span>
         <img alt="Instagram" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="40" height="40"/>
