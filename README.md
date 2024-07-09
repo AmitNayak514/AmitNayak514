@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" />
 </div>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitNayak514" alt="AmitNayak514" /></a> </p>
+
 <p align="center">
     <a href="">
         <img alt="Amit | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
@@ -80,6 +80,4 @@
 </p>
 
 <br>
-<div align="center" style="display: inline-block;">
-  <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" />
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitNayak514" alt="AmitNayak514" /></a> </p>
