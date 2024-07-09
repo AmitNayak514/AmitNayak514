@@ -3,6 +3,7 @@
   <br>
    <a  href="https://amitnayak.xyz"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
 <div style="display: inline-block;">
+  
   <img src="https://komarev.com/ghpvc/?username=AmitNayak514&label=Profile%20views&color=0e75b6&style=flat" alt="amitnayak514" />
 </div>
 </p>
@@ -21,6 +22,7 @@
         <img alt="Gmail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" height="40"/>
     </a>
 <a href="https://www.instagram.com/amit.dead/" target="_blank">
+  <p> </p>
         <img alt="Instagram" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="40" height="40"/>
     </a>
 </p>
