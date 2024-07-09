@@ -20,7 +20,7 @@
     <a href="mailto: amitbabaninayak@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
         <img alt="Gmail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" height="40"/>
     </a>
-<a href="https://www.instagram.com/amit.dead?igsh=MW0wZGljZXdzOW1hag==" target="_blank">
+<a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" target="_blank">
         <img alt="Instagram" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small_2x/instagram-logo-instagram-icon-transparent-free-png.png" width="40" height="40"/>
     </a>
 </p>
