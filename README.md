@@ -24,7 +24,7 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31brsy745umjb5o2mwimcig6tzqm?si=bcaa06b75b5c4781&nd=1&dlsi=2102b27b5c1f4823)
 </div>
 
-
+<br>
 <div style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); padding: 20px; border-radius: 10px; border: 2px solid #8A2BE2;">
   <h2 align="center" style="color: white;">Languages and Tools 🚀</h2>
   
@@ -53,7 +53,6 @@
      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
       </div>
 </div>
-<br>
 <br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
